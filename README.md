@@ -1,7 +1,7 @@
 # Script2Text
 Image Processing Project
 
-# Script2Text Project
+# Script2Text Project (Aaron)
 
 Project blog: [Visit the blog](https://script2textaaron.wordpress.com)
 
