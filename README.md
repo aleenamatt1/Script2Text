@@ -11,4 +11,10 @@ Code repository: https://github.com/aleenamatt1/Script2Text
 
 Project Blog: [Visit the blog](https://script2textaleena9.wordpress.com/)
 
+# Script2Text Project (Fuad)
+
+Project blog: [Visit the blog](https://d20124630.wordpress.com/)
+
+Code repository: https://github.com/aleenamatt1/Script2Text (Fuad Branch)
+
 
