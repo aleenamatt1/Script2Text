@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.pyc
@@ -18,4 +19,6 @@ jupyter-env/
 
 # Outputs (optional – remove if you want results tracked)
 output/
+=======
+>>>>>>> 130a23d (Ignore macOS system files)
 .DS_Store
